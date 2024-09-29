@@ -1,3 +1,8 @@
 #Introduction
 
 This is my first repo!
+
+
+## Author
+
+mpotts4
